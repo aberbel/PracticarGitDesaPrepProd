@@ -1,7 +1,5 @@
 package ramas;
 
-public class Tres {
-
+public class Dos {
 	private String nombre;
-
 }
